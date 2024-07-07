@@ -15,7 +15,7 @@ p {
   text-align: center;
 }
 .box {
-  border: 5px outset grey;
+  border: 5px solid black;
   border-spacing: 5px;
   text-align: center;
 }
