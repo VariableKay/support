@@ -16,8 +16,9 @@ p {
   color: black;
 }
 .box {
-  border: 5px solid black;
-  border-width: 3px;
-  text-align: center;
+  box-sizing: border-box;
+  width: 300px;
+  height: 100px;
+  padding: 30px;
 }
   
