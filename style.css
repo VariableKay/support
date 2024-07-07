@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
 body {
-  background-color: black;
+  background: rgb(217,161,195);
+  background: linear-gradient(90deg, rgba(217,161,195,1) 0%, rgba(200,154,139,1) 35%, rgba(191,151,207,1) 79%);
 }
 h1 {
   font-family: Roboto;
-  font-size: 38px;
+  font-size: 34px;
   color: white;
   text-align: center;
 }
@@ -14,6 +15,7 @@ p {
 }
 .box {
   border: 5px outset grey;
+  border-spacing: 5px;
   text-align: center;
 }
   
