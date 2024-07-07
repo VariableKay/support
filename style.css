@@ -12,6 +12,7 @@ h1 {
 p {
   font-family: Wittgenstein
   font-size: 20px;
+  text-align: center;
 }
 .box {
   border: 5px outset grey;
