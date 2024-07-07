@@ -5,6 +5,8 @@ body {
 h1 {
   font-family: Roboto;
   font-size: 38px;
+  font-color: white;
+  text-align: centre;
 }
 p {
   font-family: Wittgenstein
